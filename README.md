@@ -60,7 +60,23 @@ The interactive Excel dashboard combines four headline KPIs with six visualisati
 
 **Dashboard preview**
 
-*Add a screenshot of the completed dashboard here.*
+### Dashboard Overview
+
+![Olist E-commerce Dashboard](screenshots/dashboard_overview.png)
+
+### Dashboard with State Filter Applied
+
+![Dashboard Filtered by Customer State](screenshots/dashboard_filtered_by_state.png)
+
+### Additional Dashboard Views
+
+![Dashboard Overview 2](screenshots/dashboard_overview2.png)
+
+![Dashboard Overview 3](screenshots/dashboard_overview3.png)
+
+![Dashboard Filtered View 2](screenshots/dashboard_filtered2.png)
+
+![Dashboard Filtered View 3](screenshots/dashboard_filtered3.png)
 
 ### Key Performance Indicators
 
